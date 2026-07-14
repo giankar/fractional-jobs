@@ -1,5 +1,11 @@
 {
   "feed": "fractional-jobs-time-series",
   "description": "Daily count of fractional jobs discovered over time",
-  "data": []
+  "data": [
+    {
+      "date": "2026-07-14",
+      "total_jobs": 147,
+      "new_today": 147
+    }
+  ]
 }

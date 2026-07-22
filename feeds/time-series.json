@@ -3,6 +3,11 @@
   "description": "Daily count of fractional jobs discovered over time",
   "data": [
     {
+      "date": "2026-07-22",
+      "total_jobs": 461,
+      "new_today": 68
+    },
+    {
       "date": "2026-07-21",
       "total_jobs": 393,
       "new_today": 39

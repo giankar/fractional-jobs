@@ -3,39 +3,9 @@
   "description": "Daily count of fractional jobs discovered over time",
   "data": [
     {
-      "date": "2026-07-22",
-      "total_jobs": 461,
-      "new_today": 68
-    },
-    {
-      "date": "2026-07-21",
-      "total_jobs": 393,
-      "new_today": 39
-    },
-    {
-      "date": "2026-07-20",
-      "total_jobs": 354,
-      "new_today": 40
-    },
-    {
-      "date": "2026-07-19",
-      "total_jobs": 314,
-      "new_today": 20
-    },
-    {
-      "date": "2026-07-18",
-      "total_jobs": 294,
-      "new_today": 22
-    },
-    {
-      "date": "2026-07-17",
-      "total_jobs": 272,
-      "new_today": 23
-    },
-    {
-      "date": "2026-07-16",
-      "total_jobs": 249,
-      "new_today": 42
+      "date": "2026-07-14",
+      "total_jobs": 174,
+      "new_today": 27
     },
     {
       "date": "2026-07-15",
@@ -43,9 +13,44 @@
       "new_today": 33
     },
     {
-      "date": "2026-07-14",
-      "total_jobs": 174,
-      "new_today": 27
+      "date": "2026-07-16",
+      "total_jobs": 249,
+      "new_today": 42
+    },
+    {
+      "date": "2026-07-17",
+      "total_jobs": 272,
+      "new_today": 23
+    },
+    {
+      "date": "2026-07-18",
+      "total_jobs": 294,
+      "new_today": 22
+    },
+    {
+      "date": "2026-07-19",
+      "total_jobs": 314,
+      "new_today": 20
+    },
+    {
+      "date": "2026-07-20",
+      "total_jobs": 354,
+      "new_today": 40
+    },
+    {
+      "date": "2026-07-21",
+      "total_jobs": 393,
+      "new_today": 39
+    },
+    {
+      "date": "2026-07-22",
+      "total_jobs": 461,
+      "new_today": 68
+    },
+    {
+      "date": "2026-07-23",
+      "total_jobs": 469,
+      "new_today": 8
     }
   ]
 }

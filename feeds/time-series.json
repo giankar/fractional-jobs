@@ -101,6 +101,11 @@
       "date": "2026-08-02",
       "total_jobs": 500,
       "new_today": 101
+    },
+    {
+      "date": "2026-08-03",
+      "total_jobs": 500,
+      "new_today": 35
     }
   ]
 }

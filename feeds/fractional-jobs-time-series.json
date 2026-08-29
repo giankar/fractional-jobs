@@ -196,6 +196,46 @@
       "date": "2026-08-21",
       "total_jobs": 500,
       "new_today": 16
+    },
+    {
+      "date": "2026-08-22",
+      "total_jobs": 500,
+      "new_today": 11
+    },
+    {
+      "date": "2026-08-23",
+      "total_jobs": 476,
+      "new_today": 36
+    },
+    {
+      "date": "2026-08-24",
+      "total_jobs": 492,
+      "new_today": 17
+    },
+    {
+      "date": "2026-08-25",
+      "total_jobs": 500,
+      "new_today": 48
+    },
+    {
+      "date": "2026-08-26",
+      "total_jobs": 500,
+      "new_today": 50
+    },
+    {
+      "date": "2026-08-27",
+      "total_jobs": 500,
+      "new_today": 11
+    },
+    {
+      "date": "2026-08-28",
+      "total_jobs": 500,
+      "new_today": 17
+    },
+    {
+      "date": "2026-08-29",
+      "total_jobs": 500,
+      "new_today": 23
     }
   ]
 }

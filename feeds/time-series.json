@@ -6,7 +6,12 @@
       "date": "2026-08-30",
       "total_jobs": 500,
       "new_today": 13
+    },
+    {
+      "date": "2026-08-31",
+      "total_jobs": 500,
+      "new_today": 50
     }
   ],
-  "last_updated": "2026-08-30T07:05:00+04:00"
+  "last_updated": "2026-08-31T07:03:59.871+04:00"
 }

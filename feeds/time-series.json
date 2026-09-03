@@ -21,6 +21,11 @@
       "date": "2026-09-02",
       "total_jobs": 500,
       "new_today": 54
+    },
+    {
+      "date": "2026-09-03",
+      "total_jobs": 500,
+      "new_today": 6
     }
   ],
   "last_updated": "2026-09-02T07:05:42+04:00"

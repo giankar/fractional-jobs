@@ -3,239 +3,35 @@
   "description": "Daily count of fractional jobs discovered over time",
   "data": [
     {
-      "date": "2026-07-14",
-      "total_jobs": 42,
-      "new_today": 42
-    },
-    {
-      "date": "2026-07-15",
-      "total_jobs": 85,
-      "new_today": 43
-    },
-    {
-      "date": "2026-07-16",
-      "total_jobs": 142,
-      "new_today": 57
-    },
-    {
-      "date": "2026-07-17",
-      "total_jobs": 198,
-      "new_today": 56
-    },
-    {
-      "date": "2026-07-18",
-      "total_jobs": 253,
-      "new_today": 55
-    },
-    {
-      "date": "2026-07-19",
-      "total_jobs": 298,
-      "new_today": 45
-    },
-    {
-      "date": "2026-07-20",
-      "total_jobs": 345,
-      "new_today": 47
-    },
-    {
-      "date": "2026-07-21",
-      "total_jobs": 385,
-      "new_today": 40
-    },
-    {
-      "date": "2026-07-22",
-      "total_jobs": 420,
-      "new_today": 35
-    },
-    {
-      "date": "2026-07-23",
-      "total_jobs": 450,
-      "new_today": 30
-    },
-    {
-      "date": "2026-07-24",
-      "total_jobs": 468,
-      "new_today": 18
-    },
-    {
-      "date": "2026-07-25",
-      "total_jobs": 482,
-      "new_today": 14
-    },
-    {
-      "date": "2026-07-26",
+      "date": "2026-08-30",
       "total_jobs": 500,
-      "new_today": 44
+      "new_today": 13
     },
     {
-      "date": "2026-07-27",
-      "total_jobs": 500,
-      "new_today": 22
-    },
-    {
-      "date": "2026-07-28",
-      "total_jobs": 500,
-      "new_today": 27
-    },
-    {
-      "date": "2026-07-29",
-      "total_jobs": 500,
-      "new_today": 17
-    },
-    {
-      "date": "2026-07-30",
-      "total_jobs": 500,
-      "new_today": 24
-    },
-    {
-      "date": "2026-07-31",
-      "total_jobs": 500,
-      "new_today": 8
-    },
-    {
-      "date": "2026-08-01",
-      "total_jobs": 500,
-      "new_today": 56
-    },
-    {
-      "date": "2026-08-02",
-      "total_jobs": 500,
-      "new_today": 101
-    },
-    {
-      "date": "2026-08-03",
-      "total_jobs": 500,
-      "new_today": 35
-    },
-    {
-      "date": "2026-08-04",
-      "total_jobs": 500,
-      "new_today": 47
-    },
-    {
-      "date": "2026-08-05",
-      "total_jobs": 500,
-      "new_today": 44
-    },
-    {
-      "date": "2026-08-06",
-      "total_jobs": 500,
-      "new_today": 38
-    },
-    {
-      "date": "2026-08-07",
-      "total_jobs": 500,
-      "new_today": 5
-    },
-    {
-      "date": "2026-08-08",
-      "total_jobs": 500,
-      "new_today": 14
-    },
-    {
-      "date": "2026-08-09",
-      "total_jobs": 500,
-      "new_today": 18
-    },
-    {
-      "date": "2026-08-10",
-      "total_jobs": 500,
-      "new_today": 43
-    },
-    {
-      "date": "2026-08-11",
-      "total_jobs": 500,
-      "new_today": 46
-    },
-    {
-      "date": "2026-08-12",
-      "total_jobs": 500,
-      "new_today": 75
-    },
-    {
-      "date": "2026-08-13",
-      "total_jobs": 500,
-      "new_today": 15
-    },
-    {
-      "date": "2026-08-14",
-      "total_jobs": 500,
-      "new_today": 36
-    },
-    {
-      "date": "2026-08-15",
-      "total_jobs": 500,
-      "new_today": 46
-    },
-    {
-      "date": "2026-08-16",
-      "total_jobs": 500,
-      "new_today": 15
-    },
-    {
-      "date": "2026-08-17",
-      "total_jobs": 500,
-      "new_today": 34
-    },
-    {
-      "date": "2026-08-18",
-      "total_jobs": 500,
-      "new_today": 59
-    },
-    {
-      "date": "2026-08-19",
-      "total_jobs": 500,
-      "new_today": 33
-    },
-    {
-      "date": "2026-08-20",
-      "total_jobs": 500,
-      "new_today": 55
-    },
-    {
-      "date": "2026-08-21",
-      "total_jobs": 500,
-      "new_today": 16
-    },
-    {
-      "date": "2026-08-22",
-      "total_jobs": 500,
-      "new_today": 11
-    },
-    {
-      "date": "2026-08-23",
-      "total_jobs": 476,
-      "new_today": 36
-    },
-    {
-      "date": "2026-08-24",
-      "total_jobs": 492,
-      "new_today": 17
-    },
-    {
-      "date": "2026-08-25",
-      "total_jobs": 500,
-      "new_today": 48
-    },
-    {
-      "date": "2026-08-26",
+      "date": "2026-08-31",
       "total_jobs": 500,
       "new_today": 50
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-09-01",
       "total_jobs": 500,
-      "new_today": 11
+      "new_today": 43
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-09-02",
       "total_jobs": 500,
-      "new_today": 17
+      "new_today": 54
     },
     {
-      "date": "2026-08-29",
+      "date": "2026-09-03",
       "total_jobs": 500,
-      "new_today": 23
+      "new_today": 6
+    },
+    {
+      "date": "2026-09-04",
+      "total_jobs": 500,
+      "new_today": 31
     }
-  ]
+  ],
+  "last_updated": "2026-09-04T07:10:00+04:00"
 }

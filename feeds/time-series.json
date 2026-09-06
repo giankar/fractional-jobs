@@ -36,7 +36,12 @@
       "date": "2026-09-05",
       "total_jobs": 500,
       "new_today": 7
+    },
+    {
+      "date": "2026-09-06",
+      "total_jobs": 500,
+      "new_today": 9
     }
   ],
-  "last_updated": "2026-09-05T03:05:30+04:00"
+  "last_updated": "2026-09-06T03:08:27+04:00"
 }

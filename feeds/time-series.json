@@ -15,112 +15,117 @@
     {
       "date": "2026-09-01",
       "total_jobs": 500,
-      "new_today": 43
+      "new_today": 34
     },
     {
       "date": "2026-09-02",
       "total_jobs": 500,
-      "new_today": 54
+      "new_today": 31
     },
     {
       "date": "2026-09-03",
       "total_jobs": 500,
-      "new_today": 6
+      "new_today": 41
     },
     {
       "date": "2026-09-04",
       "total_jobs": 500,
-      "new_today": 31
+      "new_today": 29
     },
     {
       "date": "2026-09-05",
       "total_jobs": 500,
-      "new_today": 7
+      "new_today": 19
     },
     {
       "date": "2026-09-06",
       "total_jobs": 500,
-      "new_today": 9
+      "new_today": 26
     },
     {
       "date": "2026-09-07",
       "total_jobs": 500,
-      "new_today": 21
+      "new_today": 23
     },
     {
       "date": "2026-09-08",
       "total_jobs": 500,
-      "new_today": 45
+      "new_today": 38
     },
     {
       "date": "2026-09-09",
       "total_jobs": 500,
-      "new_today": 32
+      "new_today": 44
     },
     {
       "date": "2026-09-10",
       "total_jobs": 500,
-      "new_today": 12
+      "new_today": 40
     },
     {
       "date": "2026-09-11",
       "total_jobs": 500,
-      "new_today": 27
+      "new_today": 33
     },
     {
       "date": "2026-09-12",
-      "total_jobs": 498,
-      "new_today": 7
+      "total_jobs": 500,
+      "new_today": 36
     },
     {
       "date": "2026-09-13",
       "total_jobs": 500,
-      "new_today": 108
+      "new_today": 28
     },
     {
       "date": "2026-09-14",
       "total_jobs": 500,
-      "new_today": 11
+      "new_today": 42
     },
     {
       "date": "2026-09-15",
       "total_jobs": 500,
-      "new_today": 49
+      "new_today": 43
+    },
+    {
+      "date": "2026-09-16",
+      "total_jobs": 500,
+      "new_today": 37
     },
     {
       "date": "2026-09-17",
       "total_jobs": 500,
-      "new_today": 104
+      "new_today": 39
     },
     {
       "date": "2026-09-18",
       "total_jobs": 500,
-      "new_today": 19
+      "new_today": 31
     },
     {
       "date": "2026-09-19",
       "total_jobs": 500,
-      "new_today": 16
+      "new_today": 36
     },
     {
       "date": "2026-09-20",
       "total_jobs": 500,
-      "new_today": 10
+      "new_today": 25
     },
     {
       "date": "2026-09-21",
       "total_jobs": 500,
-      "new_today": 9
+      "new_today": 30
     },
     {
       "date": "2026-09-22",
       "total_jobs": 500,
-      "new_today": 69
+      "new_today": 37
     },
     {
       "date": "2026-09-23",
       "total_jobs": 500,
-      "new_today": 17
+      "new_today": 33
     },
     {
       "date": "2026-09-24",
@@ -131,7 +136,11 @@
       "date": "2026-09-25",
       "total_jobs": 500,
       "new_today": 52
+    },
+    {
+      "date": "2026-09-26",
+      "total_jobs": 499,
+      "new_today": 88
     }
-  ],
-  "last_updated": "2026-09-24T07:15:00+04:00"
+  ]
 }

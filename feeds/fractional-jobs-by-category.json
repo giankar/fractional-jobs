@@ -1,7 +1,7 @@
 {
   "feed": "fractional-jobs-by-category",
   "description": "Fractional jobs grouped by functional role and industry",
-  "last_updated": "2026-10-01T07:11:19+04:00",
+  "last_updated": "2026-10-02T07:08:00+04:00",
   "by_functional_role": {
     "CFO": [
       {
@@ -2416,21 +2416,6 @@
         "compensation": "Est. $85-$125/hr",
         "description": "The role involves providing technical support, managing systems administration, and leading IT projects for Moneyhub, a fintech company. The position is a 6-month fixed-term contract based in Bristol or London, focusing on IT support and infrastructure management.",
         "posted_date": "2026-09-15",
-        "discovered_date": "2026-09-17"
-      },
-      {
-        "id": "senior-ml-engineer-fractal",
-        "title": "Senior ML Engineer",
-        "company": "Fractal",
-        "location": "Hybrid / London, United Kingdom",
-        "url": "https://www.gofractional.com/job/welcometothejungle-fractal-senior-ml-engineer-welcome-to-the-jungle-formerly-otta",
-        "source": "GoFractional",
-        "functional_role": "Engineering",
-        "industry": "AI/ML",
-        "commitment": "35-40 hrs/week",
-        "compensation": "Est. $100-$200/hr",
-        "description": "The role involves designing, training, and optimizing machine learning models, constructing data pipelines, deploying ML models in production, and collaborating with cross-functional teams. It is a 12-month fixed-term contract based in London with hybrid work arrangements.",
-        "posted_date": "2026-09-14",
         "discovered_date": "2026-09-17"
       }
     ],
@@ -6872,6 +6857,21 @@
     ],
     "Product Manager": [
       {
+        "title": "Fractional Growth Product Manager (Part-Time 1099 Contract)",
+        "company": "Parsley Health",
+        "location": "Remote / US time zones preferred",
+        "url": "https://job-boards.greenhouse.io/parsleyhealth/jobs/7753967003",
+        "source": "Parsley Health / Greenhouse",
+        "functional_role": "Product Manager",
+        "industry": "HealthTech",
+        "commitment": "Approximately 10 hours/week; 3-month contract, possible extension",
+        "compensation": "$75–$200/hour",
+        "description": "Lead conversion-rate experiments across customer acquisition and clinical onboarding for a holistic healthcare practice; own the testing backlog, analytics readouts, and CRO recommendations.",
+        "posted_date": null,
+        "id": "fractional-growth-product-manager-part-time-1099-contract-parsley-health",
+        "discovered_date": "2026-10-02"
+      },
+      {
         "id": "insurance-product-development-consultant-korn-ferry-interim",
         "title": "Insurance Product Development Consultant",
         "company": "Korn Ferry Interim",
@@ -8134,21 +8134,6 @@
         "commitment": "40 hrs/week",
         "compensation": "$64-$90/hr",
         "description": "Airbyte is seeking a Senior Recruiter for a 6-month contract to manage full-cycle recruiting for technical and non-technical roles. The role is remote, based in the US, with a focus on the San Francisco Bay Area. Responsibilities include sourcing candidates, managing recruitment processes, and partnering with hiring managers. The position offers $64 - $90 per hour.",
-        "posted_date": "2026-09-14",
-        "discovered_date": "2026-09-17"
-      },
-      {
-        "id": "senior-ml-engineer-fractal",
-        "title": "Senior ML Engineer",
-        "company": "Fractal",
-        "location": "Hybrid / London, United Kingdom",
-        "url": "https://www.gofractional.com/job/welcometothejungle-fractal-senior-ml-engineer-welcome-to-the-jungle-formerly-otta",
-        "source": "GoFractional",
-        "functional_role": "Engineering",
-        "industry": "AI/ML",
-        "commitment": "35-40 hrs/week",
-        "compensation": "Est. $100-$200/hr",
-        "description": "The role involves designing, training, and optimizing machine learning models, constructing data pipelines, deploying ML models in production, and collaborating with cross-functional teams. It is a 12-month fixed-term contract based in London with hybrid work arrangements.",
         "posted_date": "2026-09-14",
         "discovered_date": "2026-09-17"
       }
@@ -10885,6 +10870,21 @@
       }
     ],
     "HealthTech": [
+      {
+        "title": "Fractional Growth Product Manager (Part-Time 1099 Contract)",
+        "company": "Parsley Health",
+        "location": "Remote / US time zones preferred",
+        "url": "https://job-boards.greenhouse.io/parsleyhealth/jobs/7753967003",
+        "source": "Parsley Health / Greenhouse",
+        "functional_role": "Product Manager",
+        "industry": "HealthTech",
+        "commitment": "Approximately 10 hours/week; 3-month contract, possible extension",
+        "compensation": "$75–$200/hour",
+        "description": "Lead conversion-rate experiments across customer acquisition and clinical onboarding for a holistic healthcare practice; own the testing backlog, analytics readouts, and CRO recommendations.",
+        "posted_date": null,
+        "id": "fractional-growth-product-manager-part-time-1099-contract-parsley-health",
+        "discovered_date": "2026-10-02"
+      },
       {
         "title": "Technical Recruiter",
         "company": "Claritas Rx",

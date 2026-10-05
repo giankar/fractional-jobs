@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs",
   "description": "Daily fractional job listings crawled and classified by Zaro",
-  "last_updated": "2026-10-04T07:08:20+04:00",
+  "last_updated": "2026-10-05T07:10:20+04:00",
   "total_jobs": 500,
   "jobs": [
+    {
+      "title": "Part-Time Vibe Marketer Fractional",
+      "company": "Revamp",
+      "location": "San Francisco, CA, US (work setup not specified)",
+      "url": "https://www.workatastartup.com/jobs/81579",
+      "source": "Y Combinator Work at a Startup",
+      "functional_role": "Marketing",
+      "industry": "AI/ML",
+      "commitment": "Up to 20 hours/week",
+      "compensation": "$25–$40/hour",
+      "description": "Create timely social content and refresh web copy, case studies and launch stories for Revamp AI, which provides AI-powered email and SMS personalization for e-commerce brands.",
+      "posted_date": "",
+      "id": "part-time-vibe-marketer-fractional-revamp",
+      "discovered_date": "2026-10-05"
+    },
+    {
+      "title": "Fractional Controller (Part-Time) | Blank Slate",
+      "company": "Blank Slate Technologies",
+      "location": "Remote (United States)",
+      "url": "https://wellfound.com/jobs/4199870-fractional-controller-part-time-blank-slate",
+      "source": "Wellfound",
+      "functional_role": "Finance",
+      "industry": "Enterprise",
+      "commitment": "Approximately 10 hours/week after onboarding",
+      "compensation": "$50,000–$75,000 annualized equivalent",
+      "description": "Own close, financial reporting, AP/AR and cash tracking; support forecasting, controls and fundraising diligence for a venture-backed technology company.",
+      "posted_date": "",
+      "id": "fractional-controller-part-time-blank-slate-blank-slate-technologies",
+      "discovered_date": "2026-10-05"
+    },
     {
       "title": "Fractional Chief of Staff",
       "company": "Boundless Impact Research & Analytics",
@@ -7472,36 +7502,6 @@
       "description": "Fractional Chief Product Officer to align product, design and GTM, unlock AI-enabled delivery, and coach a team of PMs and designers at a UK care-management platform; 6-month engagement leading to a permanent handover.",
       "posted_date": "2026-09-17",
       "discovered_date": "2026-09-22"
-    },
-    {
-      "id": "fp-a-director-korn-ferry",
-      "title": "FP&A Director",
-      "company": "Korn Ferry",
-      "location": "Remote / New York, US",
-      "url": "https://interimjobs.kornferry.com/jobs/fp-a-director-1689952",
-      "source": "Korn Ferry Interim",
-      "functional_role": "Finance",
-      "industry": "Other",
-      "commitment": "Interim-to-hire, 40 hrs/week",
-      "compensation": "",
-      "description": "Senior FP&A business partner engagement, primarily remote with occasional onsite work in Manhattan, through Korn Ferry Interim.",
-      "posted_date": "2026-09-17",
-      "discovered_date": "2026-09-22"
-    },
-    {
-      "id": "head-of-investor-relations-fractional-carparts-com",
-      "title": "Head of Investor Relations (Fractional)",
-      "company": "CarParts.com",
-      "location": "Hybrid / Long Beach, CA, US (1 day/week onsite)",
-      "url": "https://www.linkedin.com/jobs/view/head-of-investor-relations-fractional-at-carparts-com-4469294737",
-      "source": "LinkedIn",
-      "functional_role": "Finance",
-      "industry": "E-commerce",
-      "commitment": "Fractional / part-time executive",
-      "compensation": "$70-$150/hr",
-      "description": "Newly created fractional executive mandate at the micro-cap eCommerce auto parts platform: build and execute the investor relations strategy, manage analyst and institutional shareholder relationships, and lead earnings calls; 10+ years micro-cap IR experience required.",
-      "posted_date": "2026-09-19",
-      "discovered_date": "2026-09-21"
     }
   ]
 }

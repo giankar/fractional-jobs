@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs-by-category",
   "description": "Fractional jobs grouped by functional role and industry",
-  "last_updated": "2026-10-06T07:07:33+04:00",
+  "last_updated": "2026-10-07T07:08:57+04:00",
   "by_functional_role": {
     "CFO": [
+      {
+        "id": "fractional-cfo-flow-pouches",
+        "title": "Fractional CFO",
+        "company": "Flow Pouches",
+        "location": "Remote / US business hours",
+        "url": "https://app.dover.com/apply/flowpouch/b1c7b27d-b332-4414-bfb1-071e7b9d7dde",
+        "source": "Flow Pouches (Dover)",
+        "functional_role": "CFO",
+        "industry": "Consumer",
+        "commitment": "10-15 hours/week",
+        "compensation": "$8,000-$12,000/month",
+        "description": "Build rolling cash forecasts, channel margins and subscription revenue models for a DTC functional-mushroom-pouch company.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
+        "id": "interim-chief-financial-officer-tide-international-usa-inc",
+        "title": "Interim Chief Financial Officer",
+        "company": "Tide International USA Inc",
+        "location": "Remote / United States",
+        "url": "https://www.linkedin.com/jobs/view/4473835245/",
+        "source": "Tide International USA Inc (LinkedIn)",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": "Part-time",
+        "compensation": "",
+        "description": "Guide financial planning, cash flow, reporting and risk management during a transition at a chemicals company.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "title": "Fractional CFO (Controller-Grade Seat)",
         "company": "Product.ai",
@@ -437,36 +467,6 @@
         "compensation": "",
         "description": "Part-time capital strategy and project finance lead for Mira, a biotech company, acting as fractional CFO.",
         "posted_date": "2026-09-21",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-cfo-insight-global",
-        "title": "Interim CFO",
-        "company": "Insight Global",
-        "location": "Remote / United States",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-insight-global",
-        "source": "Fractionus",
-        "functional_role": "CFO",
-        "industry": "EdTech",
-        "commitment": "9-12 month contract",
-        "compensation": "$60-$75 / hr",
-        "description": "Interim CFO supporting a university as its senior financial leader, focused on budget planning, forecasting, and long-term fiscal sustainability.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-cfo-derwent",
-        "title": "Interim CFO",
-        "company": "Derwent",
-        "location": "On-site / Sydney, NSW, Australia",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-derwent",
-        "source": "Fractionus",
-        "functional_role": "CFO",
-        "industry": "Other",
-        "commitment": "~6 month engagement",
-        "compensation": "",
-        "description": "Interim CFO engagement with a private equity-backed, multi-site industrial business in Greater Western Sydney, leading the finance function.",
-        "posted_date": "2026-09-19",
         "discovered_date": "2026-09-22"
       }
     ],
@@ -2314,6 +2314,21 @@
     ],
     "Finance": [
       {
+        "id": "fractional-controller-armitage-street-llc",
+        "title": "Fractional Controller",
+        "company": "Armitage Street LLC",
+        "location": "Remote considered / Greater Chicago area preferred",
+        "url": "https://www.linkedin.com/jobs/view/4472166945/",
+        "source": "Armitage Street LLC (LinkedIn)",
+        "functional_role": "Finance",
+        "industry": "Real Estate",
+        "commitment": "~30 hours/month",
+        "compensation": "Monthly retainer, amount not specified",
+        "description": "Run accounting for a real-estate credit fund and REIT subsidiary, including investor capital accounts, loan waterfalls and the annual audit.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
         "title": "Fractional Controller (Part-Time) | Blank Slate",
         "company": "Blank Slate Technologies",
         "location": "Remote (United States)",
@@ -3242,39 +3257,24 @@
         "description": "Fractional Controller engaged on a contract, remote basis to oversee accounting and financial control functions for a biotech company.",
         "posted_date": "2026-09-20",
         "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-director-of-fp-a-ledgent",
-        "title": "Interim Director of FP&A",
-        "company": "Ledgent",
-        "location": "On-site / Bloomington, MN, US",
-        "url": "https://fractionus.com/jobs/fractional-director-fpa-at-ledgent",
-        "source": "Fractionus",
-        "functional_role": "Finance",
-        "industry": "Other",
-        "commitment": "Contract engagement",
-        "compensation": "",
-        "description": "Interim Director of FP&A providing senior finance leadership through a major ERP implementation at a growing global organization.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-controller-assistant-controller-pcg-talent-network",
-        "title": "Interim Controller / Assistant Controller",
-        "company": "PCG Talent Network",
-        "location": "Hybrid / San Francisco Bay Area, US",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-pcg-talent-network",
-        "source": "Fractionus",
-        "functional_role": "Finance",
-        "industry": "SaaS",
-        "commitment": "Contract engagement",
-        "compensation": "",
-        "description": "Hands-on accounting leadership role with a pre-IPO technology company, reporting to the VP Corporate Controller and overseeing accounting operations.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
       }
     ],
     "HR": [
+      {
+        "id": "fractional-hr-manager-live-tinted",
+        "title": "Fractional HR Manager",
+        "company": "Live Tinted",
+        "location": "Hybrid / Los Angeles, CA",
+        "url": "https://jobs.gusto.com/postings/live-tinted-fractional-hr-manager-097213b9-c8a6-45bf-91ef-52c62aaa2a6c",
+        "source": "Live Tinted (Gusto)",
+        "functional_role": "HR",
+        "industry": "Consumer",
+        "commitment": "8-16 hours/week",
+        "compensation": "",
+        "description": "Own hiring, people operations, California compliance and culture initiatives at a beauty brand; in-office presence is required 1-2 days per week.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "id": "interim-human-resources-manager-princess-cruises",
         "title": "Interim Human Resources Manager",
@@ -4330,6 +4330,21 @@
     ],
     "Marketing": [
       {
+        "id": "growth-marketer-part-time-civic-shout",
+        "title": "Growth Marketer - Part Time",
+        "company": "Civic Shout",
+        "location": "Remote / United States",
+        "url": "https://wellfound.com/jobs/4766761-growth-marketer-part-time",
+        "source": "Civic Shout (Wellfound)",
+        "functional_role": "Marketing",
+        "industry": "SaaS",
+        "commitment": "10-15 hours/week",
+        "compensation": "$100/hour",
+        "description": "Lead B2B paid-media and retargeting campaigns and grow the activist audience for an email-based advertising platform.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
         "title": "Part-Time Vibe Marketer Fractional",
         "company": "Revamp",
         "location": "San Francisco, CA, US (work setup not specified)",
@@ -5260,6 +5275,21 @@
       }
     ],
     "Operations": [
+      {
+        "id": "fractional-operations-manager-brooklyn-economic-justice-project-bejp",
+        "title": "Fractional Operations Manager",
+        "company": "Brooklyn Economic Justice Project (BEJP)",
+        "location": "Remote / US; NYC or Northeast preferred",
+        "url": "https://www.linkedin.com/jobs/view/4472833296/",
+        "source": "Brooklyn Economic Justice Project (LinkedIn)",
+        "functional_role": "Operations",
+        "industry": "Other",
+        "commitment": "15-20 hours/week",
+        "compensation": "$65-$80/hour",
+        "description": "Coordinate operations, project workplans, fellows and governance for a nonprofit expanding access to capital and economic opportunity.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "title": "Fractional Chief of Staff",
         "company": "Boundless Impact Research & Analytics",
@@ -6324,36 +6354,6 @@
         "description": "Interim operational leadership overseeing HIM and coding functions across a large multi-hospital healthcare system.",
         "posted_date": "2026-09-19",
         "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-director-surgical-services-amn-healthcare-b-e-smith",
-        "title": "Interim Director, Surgical Services",
-        "company": "AMN Healthcare (B.E. Smith)",
-        "location": "On-site / Anchorage, AK, US",
-        "url": "https://fractionus.com/jobs/fractional-interim-director-surgical-services-at-amn-healthcare",
-        "source": "Fractionus",
-        "functional_role": "Operations",
-        "industry": "HealthTech",
-        "commitment": "10-20 hrs/week",
-        "compensation": "$150-$300 / hr",
-        "description": "Interim operational and nursing leader overseeing a comprehensive Surgical Services portfolio including Operating Room, PACU, Endoscopy, and Sterile Processing at an Alaska medical centre.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "impact-interim-executive-director-americare-senior-living",
-        "title": "Impact Interim Executive Director",
-        "company": "Americare Senior Living",
-        "location": "On-site / Sullivan, MO, US",
-        "url": "https://fractionus.com/jobs/fractional-interim-executive-director-at-americare-senior-living",
-        "source": "Fractionus",
-        "functional_role": "Operations",
-        "industry": "HealthTech",
-        "commitment": "10-20 hrs/week",
-        "compensation": "$150-$300 / hr",
-        "description": "Travel-based interim leadership role overseeing full operations and regulatory compliance across Americare senior living communities during leadership transitions.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
       }
     ],
     "Other": [
@@ -6836,21 +6836,6 @@
         "description": "Part-time, temp senior clinical scientist role at a drug-discovery biotech.",
         "posted_date": "2026-09-21",
         "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-executive-director-project-manager-town-of-braintree",
-        "title": "Interim Executive Director & Project Manager",
-        "company": "Town of Braintree",
-        "location": "On-site / Union, NJ, US",
-        "url": "https://fractionus.com/jobs/fractional-executive-director-at-town-of-braintree",
-        "source": "Fractionus",
-        "functional_role": "Other",
-        "industry": "Other",
-        "commitment": "Part-time interim",
-        "compensation": "$65 / hr",
-        "description": "Lead the newly established Braintree-Randolph Emergency Communications Center, overseeing regional 911 dispatch operations, facility design, technology procurement, and personnel management.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
       }
     ],
     "Product Manager": [
@@ -7171,6 +7156,21 @@
       }
     ],
     "Sales": [
+      {
+        "id": "agency-partnerships-lead-fractional-coretas",
+        "title": "Agency Partnerships Lead (Fractional)",
+        "company": "Coretas",
+        "location": "Remote / United States",
+        "url": "https://www.linkedin.com/jobs/view/4472618378/",
+        "source": "Coretas (LinkedIn)",
+        "functional_role": "Sales",
+        "industry": "SaaS",
+        "commitment": "~2 days/week",
+        "compensation": "Monthly retainer plus revenue share; amount not specified",
+        "description": "Build a US agency partner channel for a cross-platform advertising workflow product, from prospecting through signed partnerships.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "id": "interim-sales-executive-farfetch",
         "title": "Interim Sales Executive",
@@ -8230,6 +8230,36 @@
     ],
     "Consumer": [
       {
+        "id": "fractional-cfo-flow-pouches",
+        "title": "Fractional CFO",
+        "company": "Flow Pouches",
+        "location": "Remote / US business hours",
+        "url": "https://app.dover.com/apply/flowpouch/b1c7b27d-b332-4414-bfb1-071e7b9d7dde",
+        "source": "Flow Pouches (Dover)",
+        "functional_role": "CFO",
+        "industry": "Consumer",
+        "commitment": "10-15 hours/week",
+        "compensation": "$8,000-$12,000/month",
+        "description": "Build rolling cash forecasts, channel margins and subscription revenue models for a DTC functional-mushroom-pouch company.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
+        "id": "fractional-hr-manager-live-tinted",
+        "title": "Fractional HR Manager",
+        "company": "Live Tinted",
+        "location": "Hybrid / Los Angeles, CA",
+        "url": "https://jobs.gusto.com/postings/live-tinted-fractional-hr-manager-097213b9-c8a6-45bf-91ef-52c62aaa2a6c",
+        "source": "Live Tinted (Gusto)",
+        "functional_role": "HR",
+        "industry": "Consumer",
+        "commitment": "8-16 hours/week",
+        "compensation": "",
+        "description": "Own hiring, people operations, California compliance and culture initiatives at a beauty brand; in-office presence is required 1-2 days per week.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
         "title": "Fractional FCI Head of Performance Growth",
         "company": "FCI London",
         "location": "Remote (South Africa); UK-hours overlap",
@@ -9193,21 +9223,6 @@
         "compensation": "EUR 8K-EUR 10K / mo",
         "description": "Fractional CMO for a Berlin-based B2B SaaS learning-analytics company, 2 days per week.",
         "posted_date": "2026-09-21",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-cfo-insight-global",
-        "title": "Interim CFO",
-        "company": "Insight Global",
-        "location": "Remote / United States",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-insight-global",
-        "source": "Fractionus",
-        "functional_role": "CFO",
-        "industry": "EdTech",
-        "commitment": "9-12 month contract",
-        "compensation": "$60-$75 / hr",
-        "description": "Interim CFO supporting a university as its senior financial leader, focused on budget planning, forecasting, and long-term fiscal sustainability.",
-        "posted_date": "2026-09-19",
         "discovered_date": "2026-09-22"
       }
     ],
@@ -11962,36 +11977,6 @@
         "description": "Interim HR Director leading employee and labour relations for a large healthcare system, covering collective bargaining and complex investigations.",
         "posted_date": "2026-09-19",
         "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-director-surgical-services-amn-healthcare-b-e-smith",
-        "title": "Interim Director, Surgical Services",
-        "company": "AMN Healthcare (B.E. Smith)",
-        "location": "On-site / Anchorage, AK, US",
-        "url": "https://fractionus.com/jobs/fractional-interim-director-surgical-services-at-amn-healthcare",
-        "source": "Fractionus",
-        "functional_role": "Operations",
-        "industry": "HealthTech",
-        "commitment": "10-20 hrs/week",
-        "compensation": "$150-$300 / hr",
-        "description": "Interim operational and nursing leader overseeing a comprehensive Surgical Services portfolio including Operating Room, PACU, Endoscopy, and Sterile Processing at an Alaska medical centre.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "impact-interim-executive-director-americare-senior-living",
-        "title": "Impact Interim Executive Director",
-        "company": "Americare Senior Living",
-        "location": "On-site / Sullivan, MO, US",
-        "url": "https://fractionus.com/jobs/fractional-interim-executive-director-at-americare-senior-living",
-        "source": "Fractionus",
-        "functional_role": "Operations",
-        "industry": "HealthTech",
-        "commitment": "10-20 hrs/week",
-        "compensation": "$150-$300 / hr",
-        "description": "Travel-based interim leadership role overseeing full operations and regulatory compliance across Americare senior living communities during leadership transitions.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
       }
     ],
     "Insurance": [
@@ -12420,6 +12405,36 @@
       }
     ],
     "Other": [
+      {
+        "id": "interim-chief-financial-officer-tide-international-usa-inc",
+        "title": "Interim Chief Financial Officer",
+        "company": "Tide International USA Inc",
+        "location": "Remote / United States",
+        "url": "https://www.linkedin.com/jobs/view/4473835245/",
+        "source": "Tide International USA Inc (LinkedIn)",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": "Part-time",
+        "compensation": "",
+        "description": "Guide financial planning, cash flow, reporting and risk management during a transition at a chemicals company.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
+        "id": "fractional-operations-manager-brooklyn-economic-justice-project-bejp",
+        "title": "Fractional Operations Manager",
+        "company": "Brooklyn Economic Justice Project (BEJP)",
+        "location": "Remote / US; NYC or Northeast preferred",
+        "url": "https://www.linkedin.com/jobs/view/4472833296/",
+        "source": "Brooklyn Economic Justice Project (LinkedIn)",
+        "functional_role": "Operations",
+        "industry": "Other",
+        "commitment": "15-20 hours/week",
+        "compensation": "$65-$80/hour",
+        "description": "Coordinate operations, project workplans, fellows and governance for a nonprofit expanding access to capital and economic opportunity.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "id": "ux-strategist-base",
         "title": "UX Strategist",
@@ -14159,54 +14174,24 @@
         "description": "Hands-on fractional CTO / engineering manager for a point-of-sale technology company.",
         "posted_date": "2026-09-21",
         "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-executive-director-project-manager-town-of-braintree",
-        "title": "Interim Executive Director & Project Manager",
-        "company": "Town of Braintree",
-        "location": "On-site / Union, NJ, US",
-        "url": "https://fractionus.com/jobs/fractional-executive-director-at-town-of-braintree",
-        "source": "Fractionus",
-        "functional_role": "Other",
-        "industry": "Other",
-        "commitment": "Part-time interim",
-        "compensation": "$65 / hr",
-        "description": "Lead the newly established Braintree-Randolph Emergency Communications Center, overseeing regional 911 dispatch operations, facility design, technology procurement, and personnel management.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-director-of-fp-a-ledgent",
-        "title": "Interim Director of FP&A",
-        "company": "Ledgent",
-        "location": "On-site / Bloomington, MN, US",
-        "url": "https://fractionus.com/jobs/fractional-director-fpa-at-ledgent",
-        "source": "Fractionus",
-        "functional_role": "Finance",
-        "industry": "Other",
-        "commitment": "Contract engagement",
-        "compensation": "",
-        "description": "Interim Director of FP&A providing senior finance leadership through a major ERP implementation at a growing global organization.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-cfo-derwent",
-        "title": "Interim CFO",
-        "company": "Derwent",
-        "location": "On-site / Sydney, NSW, Australia",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-derwent",
-        "source": "Fractionus",
-        "functional_role": "CFO",
-        "industry": "Other",
-        "commitment": "~6 month engagement",
-        "compensation": "",
-        "description": "Interim CFO engagement with a private equity-backed, multi-site industrial business in Greater Western Sydney, leading the finance function.",
-        "posted_date": "2026-09-19",
-        "discovered_date": "2026-09-22"
       }
     ],
     "Real Estate": [
+      {
+        "id": "fractional-controller-armitage-street-llc",
+        "title": "Fractional Controller",
+        "company": "Armitage Street LLC",
+        "location": "Remote considered / Greater Chicago area preferred",
+        "url": "https://www.linkedin.com/jobs/view/4472166945/",
+        "source": "Armitage Street LLC (LinkedIn)",
+        "functional_role": "Finance",
+        "industry": "Real Estate",
+        "commitment": "~30 hours/month",
+        "compensation": "Monthly retainer, amount not specified",
+        "description": "Run accounting for a real-estate credit fund and REIT subsidiary, including investor capital accounts, loan waterfalls and the annual audit.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "id": "fractional-cfo-at-trampetti",
         "title": "Fractional CFO & Controller (Construction)",
@@ -14389,6 +14374,36 @@
       }
     ],
     "SaaS": [
+      {
+        "id": "growth-marketer-part-time-civic-shout",
+        "title": "Growth Marketer - Part Time",
+        "company": "Civic Shout",
+        "location": "Remote / United States",
+        "url": "https://wellfound.com/jobs/4766761-growth-marketer-part-time",
+        "source": "Civic Shout (Wellfound)",
+        "functional_role": "Marketing",
+        "industry": "SaaS",
+        "commitment": "10-15 hours/week",
+        "compensation": "$100/hour",
+        "description": "Lead B2B paid-media and retargeting campaigns and grow the activist audience for an email-based advertising platform.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
+      {
+        "id": "agency-partnerships-lead-fractional-coretas",
+        "title": "Agency Partnerships Lead (Fractional)",
+        "company": "Coretas",
+        "location": "Remote / United States",
+        "url": "https://www.linkedin.com/jobs/view/4472618378/",
+        "source": "Coretas (LinkedIn)",
+        "functional_role": "Sales",
+        "industry": "SaaS",
+        "commitment": "~2 days/week",
+        "compensation": "Monthly retainer plus revenue share; amount not specified",
+        "description": "Build a US agency partner channel for a cross-platform advertising workflow product, from prospecting through signed partnerships.",
+        "posted_date": "",
+        "discovered_date": "2026-10-07"
+      },
       {
         "title": "Fractional Head of Finance",
         "company": "RevenueBase Inc",
@@ -15047,21 +15062,6 @@
         "compensation": "Est. $100-$135/hr",
         "description": "18-month contract managing brand communications, content marketing, and social strategy for Ignition.",
         "posted_date": "2026-09-21",
-        "discovered_date": "2026-09-22"
-      },
-      {
-        "id": "interim-controller-assistant-controller-pcg-talent-network",
-        "title": "Interim Controller / Assistant Controller",
-        "company": "PCG Talent Network",
-        "location": "Hybrid / San Francisco Bay Area, US",
-        "url": "https://fractionus.com/jobs/fractional-cfo-at-pcg-talent-network",
-        "source": "Fractionus",
-        "functional_role": "Finance",
-        "industry": "SaaS",
-        "commitment": "Contract engagement",
-        "compensation": "",
-        "description": "Hands-on accounting leadership role with a pre-IPO technology company, reporting to the VP Corporate Controller and overseeing accounting operations.",
-        "posted_date": "2026-09-19",
         "discovered_date": "2026-09-22"
       }
     ]

@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs",
   "description": "Daily fractional job listings crawled and classified by Zaro",
-  "last_updated": "2026-10-11T07:13:41+04:00",
+  "last_updated": "2026-10-12T07:08:40+04:00",
   "total_jobs": 500,
   "jobs": [
+    {
+      "title": "Fractional Marketing Manager",
+      "company": "TengoInternet",
+      "location": "Remote / within one hour of Austin, TX, USA",
+      "url": "https://tengointernet.applytojob.com/apply/gMeG6Qz502/Fractional-Marketing-Manager",
+      "source": "TengoInternet Careers (JazzHR)",
+      "functional_role": "Marketing",
+      "industry": "Other",
+      "commitment": "Approximately 10–15 hours/week; initial 90-day engagement",
+      "compensation": "$3,000–$5,000/month retainer",
+      "description": "Own prospect and customer nurture campaigns, CEO thought-leadership drafts, trade-show coordination and lead attribution for an outdoor Wi-Fi network company.",
+      "posted_date": null,
+      "id": "fractional-marketing-manager-tengointernet",
+      "discovered_date": "2026-10-12"
+    },
+    {
+      "title": "Fractional CFO (Strategic Finance Focus)",
+      "company": "VeloCFO",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/velocfo/e2df10ca-4780-424d-bb05-4bf2912e12bf",
+      "source": "VeloCFO Careers (Ashby)",
+      "functional_role": "CFO",
+      "industry": "Other",
+      "commitment": null,
+      "compensation": null,
+      "description": "Build driver-based models, budgets and investor-ready analyses for VeloCFO’s portfolio of high-growth technology clients, partnering with accounting teams and founders.",
+      "posted_date": null,
+      "id": "fractional-cfo-strategic-finance-focus-velocfo",
+      "discovered_date": "2026-10-12"
+    },
     {
       "id": "fractional-cfo-chainbridge-solutions",
       "title": "Fractional CFO",
@@ -7470,36 +7500,6 @@
       "commitment": "10-15 hrs/week",
       "compensation": "",
       "description": "Fractional lifecycle marketing and customer insights manager for a babysitting/family-services marketplace.",
-      "posted_date": "2026-09-21",
-      "discovered_date": "2026-09-22"
-    },
-    {
-      "id": "fractional-growth-strategist-iriya-wellness-aesthetics",
-      "title": "Fractional Growth Strategist",
-      "company": "IRIYA Wellness & Aesthetics",
-      "location": "Remote",
-      "url": "https://www.linkedin.com/jobs/view/4466120355",
-      "source": "FractionalJobs.io",
-      "functional_role": "Marketing",
-      "industry": "Consumer",
-      "commitment": "3-5 hrs/week",
-      "compensation": "",
-      "description": "Fractional B2C demand generation and customer education growth strategist for a wellness and aesthetics clinic.",
-      "posted_date": "2026-09-21",
-      "discovered_date": "2026-09-22"
-    },
-    {
-      "id": "fractional-general-counsel-maitsys",
-      "title": "Fractional General Counsel",
-      "company": "Maitsys",
-      "location": "Remote / Boston, MA, US",
-      "url": "https://www.gofractional.com/job/maitsys-fractional-general-counsel",
-      "source": "GoFractional",
-      "functional_role": "Legal",
-      "industry": "Other",
-      "commitment": "2-5 hrs/week",
-      "compensation": "Est. $300-$635/hr",
-      "description": "Fractional General Counsel providing legal and business advisory services focused on corporate governance, M&A, and technology-related legal matters.",
       "posted_date": "2026-09-21",
       "discovered_date": "2026-09-22"
     }

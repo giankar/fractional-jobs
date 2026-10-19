@@ -236,6 +236,21 @@
       "date": "2026-10-16",
       "total_jobs": 424,
       "new_today": 6
+    },
+    {
+      "date": "2026-10-17",
+      "total_jobs": 426,
+      "new_today": 2
+    },
+    {
+      "date": "2026-10-18",
+      "total_jobs": 428,
+      "new_today": 2
+    },
+    {
+      "date": "2026-10-19",
+      "total_jobs": 437,
+      "new_today": 9
     }
   ]
 }

@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs",
   "description": "Daily fractional job listings crawled and classified by Zaro",
-  "last_updated": "2026-10-19T07:07:06+04:00",
-  "total_jobs": 437,
+  "last_updated": "2026-10-20T07:06:50+04:00",
+  "total_jobs": 439,
   "jobs": [
+    {
+      "title": "Fractional Chief AI Officer (CAIO) - Higher Education & EdTech",
+      "company": "Talentus Global",
+      "location": "Remote / United States",
+      "url": "https://jobs.lever.co/TalentusGlobal/753868a9-02d7-4490-b116-e2a7acf61a10",
+      "source": "Lever",
+      "functional_role": "Other",
+      "industry": "EdTech",
+      "commitment": "Part Time / Contractor",
+      "compensation": null,
+      "description": "Lead AI strategy, governance, and transformation for universities, colleges, and EdTech organizations. Partner with executive leadership on AI roadmaps, institutional modernization, and hands-on delivery.",
+      "posted_date": null,
+      "id": "fractional-chief-ai-officer-caio-higher-education-edtech-talentus-global",
+      "discovered_date": "2026-10-20"
+    },
+    {
+      "title": "Fractional Account Executive [B2B, SaaS, Consulting]",
+      "company": "JumpSeat",
+      "location": "Remote / Chicago, IL",
+      "url": "https://jumpseat.breezy.hr/p/89463c08ad45-fractional-account-executive-b2b-saas-consulting",
+      "source": "Breezy HR",
+      "functional_role": "Sales",
+      "industry": "Other",
+      "commitment": "~2–4 focused hours per day",
+      "compensation": "Base/hourly compensation + performance-based upside",
+      "description": "Work directly with the CEO on new business, using AI-assisted account research and personalized outreach to build qualified B2B pipeline. Own prospecting, intelligent follow-up, and early sales conversations in a part-time role.",
+      "posted_date": null,
+      "id": "fractional-account-executive-b2b-saas-consulting-jumpseat",
+      "discovered_date": "2026-10-20"
+    },
     {
       "id": "fractional-chro-people-partner-ubie",
       "title": "Fractional CHRO / People Partner",

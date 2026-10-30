@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs",
   "description": "Daily fractional job listings crawled and classified by Zaro",
-  "last_updated": "2026-10-29T07:06:08+04:00",
-  "total_jobs": 487,
+  "last_updated": "2026-10-30T07:05:28+04:00",
+  "total_jobs": 489,
   "jobs": [
+    {
+      "title": "Fractional CFO",
+      "company": "Woolf",
+      "location": "Remote / United States; US Pacific Time overlap",
+      "url": "https://wellfound.com/company/woolf/jobs/3305292-fractional-cfo",
+      "source": "Wellfound",
+      "functional_role": "CFO",
+      "industry": "EdTech",
+      "commitment": "10-15 hours/week",
+      "compensation": "$5,000/month on contract",
+      "description": "Lead financial strategy, modeling, cash runway and board reporting for a globally distributed university startup. Supervise finance operations and controls while supporting fundraising readiness.",
+      "posted_date": null,
+      "id": "fractional-cfo-woolf",
+      "discovered_date": "2026-10-30"
+    },
+    {
+      "title": "Fractional Controller / VP of Finance",
+      "company": "Charles River CFO",
+      "location": "Remote / Greater Boston, Massachusetts required (ATS labels Hybrid)",
+      "url": "https://crcfo.bamboohr.com/careers/155",
+      "source": "BambooHR",
+      "functional_role": "Finance",
+      "industry": "Other",
+      "commitment": "Variable hours up to 30 hours/week",
+      "compensation": null,
+      "description": "Join the Life Sciences Practice to lead client accounting operations, financial close, audit coordination, reporting and forecasting. Requires a CPA and hands-on Controller-level experience.",
+      "posted_date": null,
+      "id": "fractional-controller-vp-of-finance-charles-river-cfo",
+      "discovered_date": "2026-10-30"
+    },
     {
       "id": "fractional-outbound-sales-lead-consultant-adaptive-teams",
       "title": "Fractional Outbound Sales Lead (Consultant)",

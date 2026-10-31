@@ -306,6 +306,11 @@
       "date": "2026-10-30",
       "total_jobs": 489,
       "new_today": 2
+    },
+    {
+      "date": "2026-10-31",
+      "total_jobs": 493,
+      "new_today": 4
     }
   ]
 }

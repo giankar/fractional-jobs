@@ -396,6 +396,11 @@
       "date": "2026-11-17",
       "total_jobs": 500,
       "new_today": 20
+    },
+    {
+      "date": "2026-11-18",
+      "total_jobs": 500,
+      "new_today": 3
     }
   ]
 }

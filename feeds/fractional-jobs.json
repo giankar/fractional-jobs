@@ -1,9 +1,39 @@
 {
   "feed": "fractional-jobs",
   "description": "Daily fractional job listings crawled and classified by Zaro",
-  "last_updated": "2026-11-18T07:04:31.915627+04:00",
+  "last_updated": "2026-11-19T07:03:33.090796+04:00",
   "total_jobs": 500,
   "jobs": [
+    {
+      "title": "Performance Marketing & Growth Manager (Mobile Apps)",
+      "company": "Huddle",
+      "location": "Remote / United States (Seattle preferred)",
+      "url": "https://wellfound.com/jobs/4574772-performance-marketing-growth-manager-mobile-apps",
+      "source": "Wellfound",
+      "functional_role": "Marketing",
+      "industry": "Consumer",
+      "commitment": "Approximately 20 hours/week",
+      "compensation": "$80–120/hour",
+      "description": "Own paid acquisition across Meta and Google for a childcare network, including attribution, analytics, creative testing and funnel optimization. Part-time or fractional contractor role with potential to grow into full-time leadership.",
+      "posted_date": null,
+      "id": "performance-marketing-growth-manager-mobile-apps-huddle",
+      "discovered_date": "2026-11-19"
+    },
+    {
+      "title": "Fractional GTM Partner – Sales to CROs",
+      "company": "salesmonk.ai",
+      "location": "Remote / Everywhere",
+      "url": "https://wellfound.com/jobs/4849716-fractional-gtm-partner-sales-to-cros",
+      "source": "Wellfound",
+      "functional_role": "Sales",
+      "industry": "AI/ML",
+      "commitment": null,
+      "compensation": "Royalty share: up to 15% of deals on referrals and up to 7% royalty from year 2 onwards",
+      "description": "Leverage relationships with CROs and senior revenue leaders to introduce AI-powered prospecting and outbound capabilities. Generate qualified opportunities through referrals, partnerships and event-led growth, supported by SalesMonk’s sales and execution team.",
+      "posted_date": null,
+      "id": "fractional-gtm-partner-sales-to-cros-salesmonk-ai",
+      "discovered_date": "2026-11-19"
+    },
     {
       "title": "Fractional Industry Lead – Executive Engagement",
       "company": "Torry Harris Integration Solutions",
@@ -7471,36 +7501,6 @@
       "commitment": "",
       "compensation": "",
       "description": "Remote interim senior pharmaceutical quality subject matter expert supporting a technical leadership assessment initiative within a highly regulated pharmaceutical environment.",
-      "posted_date": "2026-09-25",
-      "discovered_date": "2026-09-26"
-    },
-    {
-      "id": "interim-project-manager-space-instrumentation-cosine",
-      "title": "Interim Project Manager Space Instrumentation",
-      "company": "cosine",
-      "location": "Hybrid / Sassenheim, The Netherlands",
-      "url": "https://cosine.jobs.personio.com/job/2606839?language=en",
-      "source": "GoFractional",
-      "functional_role": "Other",
-      "industry": "Other",
-      "commitment": "",
-      "compensation": "$110-$135/hr",
-      "description": "The role is for a Fractional Project Manager at cosine, a company specializing in space instrumentation. The position involves leading multidisciplinary projects in the Remote Sensing business, managing budgets up to €20 million. The job is hybrid, based in Sassenheim, The Netherlands, and offers a fixed-term contract with the possibility of part-time work.",
-      "posted_date": "2026-09-25",
-      "discovered_date": "2026-09-26"
-    },
-    {
-      "id": "interim-procurement-specialist-pharmaessentia-u-s-a",
-      "title": "Interim Procurement Specialist",
-      "company": "PharmaEssentia U.S.A.",
-      "location": "On-site / Bedford, MA, USA",
-      "url": "https://pharmaessentiausa.applytojob.com/apply/Ud6eP0Wnl2/Procurement-Specialist-Biotechnology",
-      "source": "GoFractional",
-      "functional_role": "Operations",
-      "industry": "HealthTech",
-      "commitment": "",
-      "compensation": "$75-$125/hr",
-      "description": "The role is a 1-year contract position with potential to convert to full-time. It involves managing procurement processes, vendor relationships, and compliance in a biotechnology setting. The position is on-site in Bedford, MA.",
       "posted_date": "2026-09-25",
       "discovered_date": "2026-09-26"
     }

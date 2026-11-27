@@ -1,7 +1,7 @@
 {
   "feed": "fractional-jobs-by-category",
   "description": "Fractional jobs grouped by functional role and industry",
-  "last_updated": "2026-11-26T07:01:53+04:00",
+  "last_updated": "2026-11-27T07:02:01+04:00",
   "by_functional_role": {
     "CFO": [
       {
@@ -1591,6 +1591,21 @@
       }
     ],
     "Design": [
+      {
+        "title": "Senior Product Designer, Agentic UX/UI",
+        "company": "RaiseDesk",
+        "location": "Remote / Canada",
+        "url": "https://raisedesk.io/careers/senior-product-designer-agentic-ux-ui/apply",
+        "source": "RaiseDesk",
+        "functional_role": "Design",
+        "industry": "FinTech",
+        "commitment": "Initially part-time",
+        "compensation": null,
+        "description": "Own the UX and UI for a fundraising platform, including investor discovery, outreach and the way founders review AI recommendations and actions.",
+        "posted_date": null,
+        "id": "senior-product-designer-agentic-ux-ui-raisedesk",
+        "discovered_date": "2026-11-27"
+      },
       {
         "title": "Product Designer",
         "company": "Sudowrite",
@@ -3550,6 +3565,21 @@
     ],
     "Legal": [
       {
+        "title": "GRC & Privacy Consultant (Part-Time)",
+        "company": "Firework",
+        "location": "Remote / United States; hybrid possible",
+        "url": "https://jobs.lever.co/fireworkhq/214a7d93-1881-469b-bc94-b9a5be1bb670",
+        "source": "Lever",
+        "functional_role": "Legal",
+        "industry": "E-commerce",
+        "commitment": "10–15 hours/week; may increase to 20–30 during audits and certification",
+        "compensation": null,
+        "description": "Manage ongoing SOC 2, privacy and regulatory compliance for the video commerce platform, and handle customer security and compliance inquiries.",
+        "posted_date": "2026-11-25",
+        "id": "grc-privacy-consultant-part-time-firework",
+        "discovered_date": "2026-11-27"
+      },
+      {
         "title": "Fractional General Counsel",
         "company": "Pocket",
         "location": "San Francisco, CA, US / Remote",
@@ -3851,6 +3881,51 @@
       }
     ],
     "Marketing": [
+      {
+        "title": "Fractional GTM Engineer",
+        "company": "Market Veep",
+        "location": "Remote worldwide",
+        "url": "https://www.marketveep.com/careers-fractional-gtm-engineer",
+        "source": "Market Veep",
+        "functional_role": "Marketing",
+        "industry": "Other",
+        "commitment": "Part-time; hours vary by account and project",
+        "compensation": null,
+        "description": "Build and improve cross-channel B2B customer journeys for Market Veep clients, connecting enrichment, outreach and CRM automation while tracking funnel conversion.",
+        "posted_date": null,
+        "id": "fractional-gtm-engineer-market-veep",
+        "discovered_date": "2026-11-27"
+      },
+      {
+        "title": "Senior SEO & AEO Specialist (Part-Time) for a B2B SaaS",
+        "company": "RedirHub",
+        "location": "Remote / worldwide",
+        "url": "https://wellfound.com/jobs/5130507-sales-business-development-part-time-managed-ssl-and-custom-domains-for-saas-clone",
+        "source": "Wellfound",
+        "functional_role": "Marketing",
+        "industry": "SaaS",
+        "commitment": "8–12 hours/week",
+        "compensation": "$50–$75/hour",
+        "description": "Set technical SEO and answer engine optimization priorities for a link infrastructure SaaS business, and track buyer-intent search rankings, AI mentions and sign-ups.",
+        "posted_date": null,
+        "id": "senior-seo-aeo-specialist-part-time-for-a-b2b-saas-redirhub",
+        "discovered_date": "2026-11-27"
+      },
+      {
+        "title": "Social Media Content Creator (Part-time)",
+        "company": "Jump",
+        "location": "Remote or hybrid / Draper, UT",
+        "url": "https://jobs.ashbyhq.com/jump-app/111e7903-26dd-4b2f-a3bc-14179d1b0711",
+        "source": "Ashby",
+        "functional_role": "Marketing",
+        "industry": "FinTech",
+        "commitment": "20 hours/week",
+        "compensation": "$60–$80/hour",
+        "description": "Manage LinkedIn publishing for Jump and its executives, producing written posts and short videos for an AI platform serving financial professionals.",
+        "posted_date": null,
+        "id": "social-media-content-creator-part-time-jump",
+        "discovered_date": "2026-11-27"
+      },
       {
         "title": "Fractional Head of Growth",
         "company": "Hertility",
@@ -8357,6 +8432,21 @@
     ],
     "E-commerce": [
       {
+        "title": "GRC & Privacy Consultant (Part-Time)",
+        "company": "Firework",
+        "location": "Remote / United States; hybrid possible",
+        "url": "https://jobs.lever.co/fireworkhq/214a7d93-1881-469b-bc94-b9a5be1bb670",
+        "source": "Lever",
+        "functional_role": "Legal",
+        "industry": "E-commerce",
+        "commitment": "10–15 hours/week; may increase to 20–30 during audits and certification",
+        "compensation": null,
+        "description": "Manage ongoing SOC 2, privacy and regulatory compliance for the video commerce platform, and handle customer security and compliance inquiries.",
+        "posted_date": "2026-11-25",
+        "id": "grc-privacy-consultant-part-time-firework",
+        "discovered_date": "2026-11-27"
+      },
+      {
         "title": "Fractional CFO",
         "company": "Native Commerce",
         "location": "Remote / London-based",
@@ -9172,6 +9262,36 @@
       }
     ],
     "FinTech": [
+      {
+        "title": "Senior Product Designer, Agentic UX/UI",
+        "company": "RaiseDesk",
+        "location": "Remote / Canada",
+        "url": "https://raisedesk.io/careers/senior-product-designer-agentic-ux-ui/apply",
+        "source": "RaiseDesk",
+        "functional_role": "Design",
+        "industry": "FinTech",
+        "commitment": "Initially part-time",
+        "compensation": null,
+        "description": "Own the UX and UI for a fundraising platform, including investor discovery, outreach and the way founders review AI recommendations and actions.",
+        "posted_date": null,
+        "id": "senior-product-designer-agentic-ux-ui-raisedesk",
+        "discovered_date": "2026-11-27"
+      },
+      {
+        "title": "Social Media Content Creator (Part-time)",
+        "company": "Jump",
+        "location": "Remote or hybrid / Draper, UT",
+        "url": "https://jobs.ashbyhq.com/jump-app/111e7903-26dd-4b2f-a3bc-14179d1b0711",
+        "source": "Ashby",
+        "functional_role": "Marketing",
+        "industry": "FinTech",
+        "commitment": "20 hours/week",
+        "compensation": "$60–$80/hour",
+        "description": "Manage LinkedIn publishing for Jump and its executives, producing written posts and short videos for an AI platform serving financial professionals.",
+        "posted_date": null,
+        "id": "social-media-content-creator-part-time-jump",
+        "discovered_date": "2026-11-27"
+      },
       {
         "id": "business-development-director-surecomp",
         "title": "Business Development Director",
@@ -10798,6 +10918,21 @@
       }
     ],
     "Other": [
+      {
+        "title": "Fractional GTM Engineer",
+        "company": "Market Veep",
+        "location": "Remote worldwide",
+        "url": "https://www.marketveep.com/careers-fractional-gtm-engineer",
+        "source": "Market Veep",
+        "functional_role": "Marketing",
+        "industry": "Other",
+        "commitment": "Part-time; hours vary by account and project",
+        "compensation": null,
+        "description": "Build and improve cross-channel B2B customer journeys for Market Veep clients, connecting enrichment, outreach and CRM automation while tracking funnel conversion.",
+        "posted_date": null,
+        "id": "fractional-gtm-engineer-market-veep",
+        "discovered_date": "2026-11-27"
+      },
       {
         "title": "Director of Information Technology",
         "company": "Education Law Center-PA",
@@ -12947,6 +13082,21 @@
       }
     ],
     "SaaS": [
+      {
+        "title": "Senior SEO & AEO Specialist (Part-Time) for a B2B SaaS",
+        "company": "RedirHub",
+        "location": "Remote / worldwide",
+        "url": "https://wellfound.com/jobs/5130507-sales-business-development-part-time-managed-ssl-and-custom-domains-for-saas-clone",
+        "source": "Wellfound",
+        "functional_role": "Marketing",
+        "industry": "SaaS",
+        "commitment": "8–12 hours/week",
+        "compensation": "$50–$75/hour",
+        "description": "Set technical SEO and answer engine optimization priorities for a link infrastructure SaaS business, and track buyer-intent search rankings, AI mentions and sign-ups.",
+        "posted_date": null,
+        "id": "senior-seo-aeo-specialist-part-time-for-a-b2b-saas-redirhub",
+        "discovered_date": "2026-11-27"
+      },
       {
         "title": "Fractional CFO - 2 days/wk",
         "company": "Plexus",

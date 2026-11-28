@@ -1,9 +1,54 @@
 {
   "feed": "fractional-jobs-by-category",
   "description": "Fractional jobs grouped by functional role and industry",
-  "last_updated": "2026-11-27T07:02:01+04:00",
+  "last_updated": "2026-11-28T07:01:54+04:00",
   "by_functional_role": {
     "CFO": [
+      {
+        "id": "fractional-cfo-latentworlds",
+        "title": "Fractional CFO",
+        "company": "LatentWorlds",
+        "location": "Zurich; hybrid/remote",
+        "url": "https://latentworlds.ai/careers/fractional-cfo/",
+        "source": "LatentWorlds",
+        "functional_role": "CFO",
+        "industry": "AI/ML",
+        "commitment": "2-3 days/week",
+        "compensation": null,
+        "description": "Build the finance function for a physical AI infrastructure company, owning cash planning, reporting and controls while supporting fundraising and cross-border operations.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
+        "id": "fractional-chief-financial-officer-chief-business-officer-sereneuro-therapeutics-inc",
+        "title": "Fractional Chief Financial Officer / Chief Business Officer",
+        "company": "SereNeuro Therapeutics, Inc.",
+        "location": "Hybrid — Baltimore, MD",
+        "url": "https://sereneuro-therapeutics-inc.breezy.hr/p/d4a984e7a9b0-fractional-chief-financial-officer-chief-business-officer",
+        "source": "Breezy HR",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": null,
+        "compensation": null,
+        "description": "Lead seed fundraising, budgeting, grant compliance and board reporting for a therapeutics company. The scope can expand to business development and partnerships.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
+        "id": "fractional-chief-financial-officer-miller-vein",
+        "title": "Fractional Chief Financial Officer",
+        "company": "Miller Vein",
+        "location": "Hybrid — Farmington Hills, Michigan",
+        "url": "https://job-boards.greenhouse.io/millervein/jobs/6271521004",
+        "source": "Greenhouse",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": "Initial 6–12 months; weekly commitment to be determined",
+        "compensation": null,
+        "description": "Build clinic- and provider-level profitability reporting, cash forecasts and financial controls for a growing vein practice. Advise leadership on financing and expansion.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
       {
         "title": "Fractional Chief Financial Officer (CFO)",
         "company": "Backpack Healthcare",
@@ -5069,6 +5114,21 @@
     ],
     "Operations": [
       {
+        "id": "fractional-director-of-payments-operations-product-implementation-kadima-payments",
+        "title": "Fractional Director of Payments Operations & Product Implementation",
+        "company": "Kadima Payments",
+        "location": "Remote — U.S. business hours, Pacific Time overlap",
+        "url": "https://kadimapayments.com/careers/fractional-director-payments-operations-product-implementation",
+        "source": "Kadima Payments",
+        "functional_role": "Operations",
+        "industry": "FinTech",
+        "commitment": "~18–24 hours per week",
+        "compensation": null,
+        "description": "Lead merchant operations and SaaS implementation, coordinating onboarding, product issues, and internal processes directly with the founder.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
         "title": "Head of Operations",
         "company": "Regen8",
         "location": "Bend, Oregon preferred; remote possible",
@@ -6305,6 +6365,21 @@
     ],
     "Sales": [
       {
+        "id": "fractional-sdr-jobrunr",
+        "title": "Fractional SDR",
+        "company": "JobRunr",
+        "location": "Remote, with a kickoff day in Leuven; timezone close to CET",
+        "url": "https://www.jobrunr.io/en/jobs/fractional-sdr/",
+        "source": "JobRunr",
+        "functional_role": "Sales",
+        "industry": "Enterprise",
+        "commitment": "10 hours/week for 90 days",
+        "compensation": "Monthly retainer plus a bonus for every qualified enterprise opportunity",
+        "description": "Run targeted outbound to enterprise accounts for JobRunr’s background job processing software and develop qualified opportunities alongside the founders.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
         "title": "Fractional GTM Enablement Lead",
         "company": "Stepful",
         "location": "Remote / United States",
@@ -6908,6 +6983,21 @@
   },
   "by_industry": {
     "AI/ML": [
+      {
+        "id": "fractional-cfo-latentworlds",
+        "title": "Fractional CFO",
+        "company": "LatentWorlds",
+        "location": "Zurich; hybrid/remote",
+        "url": "https://latentworlds.ai/careers/fractional-cfo/",
+        "source": "LatentWorlds",
+        "functional_role": "CFO",
+        "industry": "AI/ML",
+        "commitment": "2-3 days/week",
+        "compensation": null,
+        "description": "Build the finance function for a physical AI infrastructure company, owning cash planning, reporting and controls while supporting fundraising and cross-border operations.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
       {
         "title": "Product Designer",
         "company": "Sudowrite",
@@ -8976,6 +9066,21 @@
     ],
     "Enterprise": [
       {
+        "id": "fractional-sdr-jobrunr",
+        "title": "Fractional SDR",
+        "company": "JobRunr",
+        "location": "Remote, with a kickoff day in Leuven; timezone close to CET",
+        "url": "https://www.jobrunr.io/en/jobs/fractional-sdr/",
+        "source": "JobRunr",
+        "functional_role": "Sales",
+        "industry": "Enterprise",
+        "commitment": "10 hours/week for 90 days",
+        "compensation": "Monthly retainer plus a bonus for every qualified enterprise opportunity",
+        "description": "Run targeted outbound to enterprise accounts for JobRunr’s background job processing software and develop qualified opportunities alongside the founders.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
         "title": "Interim Head of People",
         "company": "Basis Technologies",
         "location": "Hybrid / Bracknell, UK",
@@ -9262,6 +9367,21 @@
       }
     ],
     "FinTech": [
+      {
+        "id": "fractional-director-of-payments-operations-product-implementation-kadima-payments",
+        "title": "Fractional Director of Payments Operations & Product Implementation",
+        "company": "Kadima Payments",
+        "location": "Remote — U.S. business hours, Pacific Time overlap",
+        "url": "https://kadimapayments.com/careers/fractional-director-payments-operations-product-implementation",
+        "source": "Kadima Payments",
+        "functional_role": "Operations",
+        "industry": "FinTech",
+        "commitment": "~18–24 hours per week",
+        "compensation": null,
+        "description": "Lead merchant operations and SaaS implementation, coordinating onboarding, product issues, and internal processes directly with the founder.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
       {
         "title": "Senior Product Designer, Agentic UX/UI",
         "company": "RaiseDesk",
@@ -10918,6 +11038,36 @@
       }
     ],
     "Other": [
+      {
+        "id": "fractional-chief-financial-officer-chief-business-officer-sereneuro-therapeutics-inc",
+        "title": "Fractional Chief Financial Officer / Chief Business Officer",
+        "company": "SereNeuro Therapeutics, Inc.",
+        "location": "Hybrid — Baltimore, MD",
+        "url": "https://sereneuro-therapeutics-inc.breezy.hr/p/d4a984e7a9b0-fractional-chief-financial-officer-chief-business-officer",
+        "source": "Breezy HR",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": null,
+        "compensation": null,
+        "description": "Lead seed fundraising, budgeting, grant compliance and board reporting for a therapeutics company. The scope can expand to business development and partnerships.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
+      {
+        "id": "fractional-chief-financial-officer-miller-vein",
+        "title": "Fractional Chief Financial Officer",
+        "company": "Miller Vein",
+        "location": "Hybrid — Farmington Hills, Michigan",
+        "url": "https://job-boards.greenhouse.io/millervein/jobs/6271521004",
+        "source": "Greenhouse",
+        "functional_role": "CFO",
+        "industry": "Other",
+        "commitment": "Initial 6–12 months; weekly commitment to be determined",
+        "compensation": null,
+        "description": "Build clinic- and provider-level profitability reporting, cash forecasts and financial controls for a growing vein practice. Advise leadership on financing and expansion.",
+        "posted_date": null,
+        "discovered_date": "2026-11-28"
+      },
       {
         "title": "Fractional GTM Engineer",
         "company": "Market Veep",
